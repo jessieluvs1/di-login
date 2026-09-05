@@ -15,10 +15,3 @@ The extension opens the site's WordPress admin route. It does not bypass WordPre
 ## Privacy
 
 The extension does not collect, store, transmit, or sell user data. See [PRIVACY.md](PRIVACY.md) for the complete privacy statement.
-
-## Chrome Web Store submission
-
-1. Test the extension through `chrome://extensions` using **Load unpacked**.
-2. Create a ZIP archive containing `manifest.json`, `background.js`, and `icons/`. Do not include `.git`, `.DS_Store`, or other local files.
-3. In the Chrome Web Store Developer Dashboard, upload the ZIP and provide the required store listing information, screenshots, support contact, and accurate data-use disclosures.
-4. Declare that the extension does not collect or transmit user data. Provide the public URL for the privacy statement if the dashboard requests one.
