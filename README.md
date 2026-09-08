@@ -4,11 +4,12 @@ Chrome extension that opens `/wp/wp-admin/` for the current Dealer Inspire websi
 
 ## Install locally
 
-1. Open `chrome://extensions` in Chrome.
-2. Enable **Developer mode**.
-3. Select **Load unpacked**.
-4. Choose this folder.
-5. Click the extension's toolbar icon while viewing a website.
+1. Download the zip file and open it (Code -> Download ZIP).
+2. Open `chrome://extensions` in Chrome.
+3. Enable **Developer mode**.
+4. Select **Load unpacked**.
+5. Choose this folder.
+6. Click the extension's toolbar icon while viewing a website.
 
 The extension opens the site's WordPress admin route. It does not bypass WordPress authentication; Chrome will show the standard WordPress login page when you are not already signed in.
 
